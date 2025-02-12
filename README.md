@@ -9,4 +9,4 @@
 8. Which product line has the highest average rating?
 9. What is the impact of gross income on customer ratings?
 10. How do tax and gross income relate across different product lines?
-11. Gui
+
