@@ -1,5 +1,5 @@
 # supermarket-sales-analysis
-1. What is the total sales for each product line?
+1. What is the total sales for each product linee?
 2. How do sales trends vary over time? Are there any seasonal patterns?
 3. What is the most popular payment method among customers?
 4. How does the sales performance differ by city and branch?
